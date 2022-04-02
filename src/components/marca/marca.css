@@ -1,0 +1,7 @@
+
+#content-logo-marca h1{
+    background-color: #05a892;
+    background-image: linear-gradient(160deg, #05a892 32%, #9004f5 100%);
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}

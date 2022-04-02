@@ -1,0 +1,25 @@
+.content-whatsapp{
+    position:fixed;
+    right: 20px;
+    bottom: 30px;
+    width:60px;
+    height:60px;
+    /* background-color: black; */
+    border-radius: 50%;
+    z-index: 100;
+
+}
+
+@media screen and (max-width: 600px) {
+    .content-whatsapp{
+        position:fixed;
+        right: 10px;
+        bottom: 10px;
+        width:60px;
+        height:60px;
+        border-radius: 50%;
+        /* background-color: black; */
+        z-index: 100;
+    }
+}
+    

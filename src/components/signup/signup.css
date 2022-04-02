@@ -1,0 +1,46 @@
+#form-signup{
+    background-color: #02cbcd;
+    background-image: linear-gradient(34deg, #02cbcd 0%, #FC00FF 100%);
+    
+
+}
+
+@media screen and (max-width:490px){
+    #form-signup{
+        width: 98%;
+    }
+    #title-signup{
+        font-size: 1.2rem;
+    }
+    #btn-close-signup{
+        font-size: 1.4rem;
+        /* background-color: rgb(110, 110, 110); */
+        /* border-radius: 50%; */
+        padding: 0px 5px 0px 5px;
+        padding-right: -23px !important;
+    }
+    #container-tbn-signup{
+        padding-right: -2px !important;
+    }
+}
+
+
+
+/* counter */
+#center-parent-form-singup{
+    overflow-x:hidden ;
+    /* backdrop-filter:blur(20px) */
+}
+
+#center-parent-form-singup::-webkit-scrollbar{
+    display:none;
+}
+
+
+
+#form-signup input{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 5px 2px 5px 5px;
+}
+
+/* ********** */
